@@ -1,0 +1,7 @@
+.DS_Store
+.env
+*.pem
+*.p8
+connections.toml
+config.toml
+.snowflake/
